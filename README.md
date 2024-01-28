@@ -9,6 +9,13 @@ It all started as curiosity and it is gradually becoming something more serious 
 
 In my account here, you might see a bunch of small repos created to do experiments, proof-of-concepts or follow allong courses that I'm taking, a lot of forked repos that I have close interest or that I'm currently using in my activities as developer. As of today, January 28th, 2024, there is no flagship project that I'm working on in open source arena although that may change in the future.
 
+<div align="center">
+  <a href="https://github.com/vitor-amartins">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=disouzam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disouzam&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+(Inspired in a [GitHub page](https://github.com/vitor-amartins/vitor-amartins/commit/e3625fda0a7dfb37c302a6971fa46bc2e2a87254) from GitHub user @vitor-amartins)
+
 <!--
 **disouzam/disouzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
