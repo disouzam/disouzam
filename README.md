@@ -14,7 +14,8 @@ In my account here, you might see a bunch of small repos created to do experimen
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=disouzam&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disouzam&layout=compact&langs_count=7&theme=transparent"/>
 </div>
-(Inspired in a ![GitHub page](https://github.com/vitor-amartins/vitor-amartins/commit/e3625fda0a7dfb37c302a6971fa46bc2e2a87254) from GitHub user @vitor-amartins)
+
+GitHub stats inspired in a [GitHub page](https://github.com/vitor-amartins/vitor-amartins/commit/e3625fda0a7dfb37c302a6971fa46bc2e2a87254) from GitHub user [@vitor-amartins](https://github.com/vitor-amartins)
 
 <!--
 **disouzam/disouzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
