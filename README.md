@@ -11,8 +11,8 @@ In my account here, you might see a bunch of small repos created to do experimen
 
 <div align="center">
   <a href="https://github.com/disouzam">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=disouzam&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide=html"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disouzam&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=disouzam&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disouzam&layout=compact&langs_count=7&theme=transparent&hide=html"/>
 </div>
 
 GitHub stats inspired in a [GitHub page](https://github.com/vitor-amartins/vitor-amartins/commit/e3625fda0a7dfb37c302a6971fa46bc2e2a87254) from GitHub user [@vitor-amartins](https://github.com/vitor-amartins)
